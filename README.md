@@ -1,1 +1,1 @@
-# NLP-Based_Social_Sentiment_Detection_for_Stock_Price_Prediction
+# NLP 偵測社群輿論結合長短線分析預測股價走勢
